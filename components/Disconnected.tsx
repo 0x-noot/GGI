@@ -36,11 +36,11 @@ const Disconnected: FC = () => {
         <Heading
           color="white"
           as="h1"
-          size="4x2"
+          size="3x1"
           noOfLines={2}
           textAlign="center"
         >
-          Mint your Ghastly Gensler. Earn $GGI.
+          Mint your Ghastly Gensloor. Earn $GGI.
         </Heading>
         <Button
           bgColor="accent"

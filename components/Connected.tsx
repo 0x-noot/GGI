@@ -26,7 +26,7 @@ const Connected: FC = () => {
           </Heading>
 
           <Text color="bodyText" fontSize="xl" textAlign="center">
-            Each Ghastly Gensler can be staked to passively receive
+            Each Ghastly Gensloor can be staked to passively receive
             <Text as="b"> $GGI</Text> Use your <Text as="b"> $GGI</Text> to
             upgrade your gensloor and receive perks within the community!
           </Text>
@@ -43,7 +43,7 @@ const Connected: FC = () => {
 
       <Button bgColor="accent" color="white" maxW="380px">
         <HStack>
-          <Text>mint buildoor</Text>
+          <Text>mint gensloor</Text>
           <ArrowForwardIcon />
         </HStack>
       </Button>
